@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/mdmuradhasanmedia/SMS-XBOMBER">
-    <img src="https://i.ibb.co/Kxfn3pJ/XBOMBER-Round.png" alt="Logo" width="100" height="100">
+    <img src="https://raw.githubusercontent.com/mdmuradhasanmedia/SMS-XBOMBER/main/SMS-XBOMBER-LOGO-ROUND.png" alt="Logo" width="100" height="100">
   </a>
 
 <h2 align="center">SMS XBOMBER</h2>
